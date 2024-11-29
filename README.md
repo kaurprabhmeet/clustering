@@ -1,1 +1,2 @@
-# clustering
+# Clustering
+ analyzes household characteristics in the Jamuna River Basin using census and baseline data from 14 unions in Bangladesh to identify and segment vulnerable households. By employing clustering techniques such as K-means and Partitioning Around Medoids (PAM), the study explores optimal targeting for social protection programs. The analysis includes data cleaning, clusterability assessment using Hopkins statistics, and optimal cluster determination via silhouette analysis. Visualizations and summary statistics highlight key socioeconomic factors like income, land ownership, and asset holdings, providing actionable insights for policymakers to design more effective, data-driven interventions.
