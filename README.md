@@ -1,2 +1,4 @@
 # Clustering
 The [clustering](https://github.com/kaurprabhmeet/clustering/blob/main/clustering.Rmd) file attempts to investigate household characteristics in the Jamuna River Basin in Bangladesh using baseline data from 14 unions to identify vulnerable households. The analysis focuses in clusterability assessment using Hopkins statistics, and optimal cluster determination via silhouette analysis. This analysis revealed that the population can be segmented into 2 clusters - elite and non-elite. The elite population seems to be better off than their non-elite counterparts when we investigate different welfare outcomes. It is characterized by higher asset holdings, higher food consumption scores, greater land ownership, and high average monthly incomes.
+
+*Note:* The file has been anonymised and important details have been removed to make it public.
